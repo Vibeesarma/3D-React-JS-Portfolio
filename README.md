@@ -26,5 +26,7 @@ When you try this project, you can learn how to create a starts background, and 
 
 
  
- Before Try this project please watch that above video
+ Before Try this project please watch that above video,
+ 
+ 
  Thanks for https://www.youtube.com/@javascriptmastery channel
